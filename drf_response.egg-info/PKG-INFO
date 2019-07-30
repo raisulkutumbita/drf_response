@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: drf-response
+Version: 0.1
+Summary: A custom package for drf reponse
+Home-page: https://github.com/raisulkutumbita/drf_response
+Author: Raisul Islam
+Author-email: raisul@kutumbita.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
